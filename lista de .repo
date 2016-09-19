@@ -1,0 +1,78 @@
+# Repo_LP-
+Listado de .repo 
+
+# CyanogenMod
+http://www.cyanogenmod.com/
+# Repo
+repo init -u git://github.com/CyanogenMod/android.git -b cm-12.1
+
+# OmniRom
+http://www.omnirom.org/
+# Repo
+repo init -u git://github.com/omnirom/android.git -b android-5.1
+# Omni Gerrit
+gerrit.omnirom.org
+
+# SlimRom
+http://www.slimroms.eu/
+# Repo
+repo init -u git://github.com/SlimRoms/platform_manifest.git -b lp5.1
+# Slim Gerrit
+https://gerrit.slimroms.net/
+
+# LiquidSmooth
+http://www.liquidsmooth.net/
+# Repo
+repo init -u git://github.com/LiquidSmooth/android.git -b 5.1
+# Liquid Gerrit
+http://gerrit.liquidsmooth.net/
+
+# AOSPA (ParanoidAndroid)
+http://get.aospa.co/
+# Repo
+repo init -u https://github.com/AOSPA/manifest -b lollipop-mr1
+
+# AICP (Android Ice Cold Project)
+http://www.aicp-rom.com/
+# Repo
+repo init -u https://github.com/AICP/platform_manifest.git -b lp5.1
+
+# AOKP (Android Open Kang Project)
+http://aokp.co/
+# Repo
+repo init -u https://github.com/AOKP/platform_manifest.git -b lollipop
+
+# BlissRom
+http://blissroms.com/
+# Repo
+repo init -u https://github.com/BlissRom/manifest.git -b lp5.1
+
+# Candy5
+http://the-candy-shop.co/candy5.html
+# Repo
+repo init -u git://github.com/candyroms/candy.git -b c5.1
+
+# Carbon
+https://carbonrom.org/
+# Repo
+repo init -u https://github.com/CarbonROM/android.git -b lp5.1
+
+# Mokee
+http://www.mokeedev.com/en/
+# Repo
+repo init -u https://github.com/MoKee/android.git -b mkl-mr1
+
+# Nameless Rom
+https://nameless-rom.org/
+# Repo
+repo init -u https://github.com/NamelessRom/android.git -b n-2.1
+# Nameless Gerrit
+https://gerrit.nameless-rom.org
+
+# Pac-Rom
+http://pac-rom.com/
+# Repo
+repo init -u https://github.com/PAC-man/pacman.git -b pac-5.1
+# Pac Gerrit
+http://review.pac-rom.com/
+
